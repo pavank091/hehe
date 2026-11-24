@@ -72,3 +72,38 @@ DO NOT INCLUDE:
 * a large tree beside the character;
 * close-ups, the character filling the screen, or his head or hands cut off by the frame;
 * fast motion, cuts or scene changes.
+
+## Quote ideas (format example)
+
+Original (white bold text, soft shadow, 5 centred lines, top of the frame):
+```
+Dear God,
+I may not understand everything
+happening right now,
+but I trust You...
+You won't leave me like this forever. 🙏
+```
+Opening = `Dear God,` · Closing = `You won't leave me like this forever. 🙏` · Only the middle three lines change.
+
+1. ⭐
+```
+Dear God,
+I don't have the words tonight,
+and my heart feels so tired,
+but I'm still holding on...
+You won't leave me like this forever. 🙏
+```
+2.
+```
+Dear God,
+I can't see the way ahead
+right now,
+but I know You see me...
+You won't leave me like this forever. 🙏
+```
+
+## Second example: a single-line quote
+
+Original: `THE SMILE WAS JUST A MASK.` (bold white ALL CAPS, soft dark shadow, 2 lines). Opening = `THE SMILE WAS` · Closing = `A MASK.`
+- `THE SMILE WAS NEVER MINE. JUST A MASK.`
+- `THE SMILE WAS FOR EVERYONE ELSE. JUST A MASK.`

@@ -48,6 +48,17 @@ A markdown table with the columns **Time | Shot | What happens**. For each beat 
 
 After the table, add one or two sentences on overlays (captions, watermarks such as "Dola AI" or a Gemini sparkle) and on framing problems (e.g. "the character fills the screen until 9.5 s").
 
+## Step 3b: Read the reference quote (caption)
+
+Most references have a caption/quote burned into the frame. Copy it **exactly**, word for word, from a clear frame: keep the line breaks, the capital letters, the punctuation, the "..." and any emoji (e.g. 🙏). If the text is small or blurry, pull a larger frame (`scale=720:-1`) and read it again. Also note the caption's styling: font look (bold, rounded or plain), colour, shadow or outline, size, position (top, middle), how many lines, and whether it is ALL CAPS.
+
+Split the quote into three parts:
+- **Opening:** the first words or first line (e.g. `Dear God,` or `THE SMILE WAS`).
+- **Body:** the middle.
+- **Closing:** the last words or last line, including its punctuation and emoji (e.g. `You won't leave me like this forever. 🙏` or `JUST A MASK.` / `A MASK.`).
+
+If there's no caption, say so and skip the quote ideas.
+
 ## Step 4: Design the variation (not the exact same)
 
 Keep the **emotional arc** (sad and alone → tear → looks up / prays → warm light → peaceful smile) and the **locked character**. Change **at least three** of these:
@@ -107,7 +118,14 @@ CHARACTER (identical in every frame):
 2. **What happens in the reference:** the breakdown table + the overlay/framing note.
 3. **How your version is different:** 3–4 bullets (camera direction, framing, setting, empty caption space).
 4. **Gemini prompt:** the full prompt between `---` rules, as plain text ready to copy.
-5. A short note: add captions in the editor in the top 25%. If the reference had a generator watermark, mention that prompt wording usually can't remove it.
+5. **Quote ideas** (whenever the reference has a caption):
+   - First show the original quote exactly, and one line on its styling (e.g. "bold white ALL CAPS, soft dark shadow, 2 lines, centred").
+   - Then give **5–6 new quotes** in a numbered list, each in a code block or on separate lines so the line breaks are kept.
+   - **Same opening and same closing as the original, word for word,** with the same capitals, punctuation, emoji and number of lines. **Only the body changes,** and only a little: same length (±20%), same tone, same rhythm.
+   - The new body should fit the new video's scene and story where possible (e.g. water, a reflection, a fence, a quiet night). Keep it simple, honest and emotional, never preachy. For prayer quotes, keep it respectful and true to Scripture.
+   - Mark the one you'd pick with ⭐.
+   - Remind the user to place the quote in the empty top 25% using the same styling as the original.
+6. A short note: if the reference had a generator watermark, mention that prompt wording usually can't remove it.
 
 Keep the user's character, rules and tone. Write in clear, simple English.
 
